@@ -1,0 +1,240 @@
+
+*{
+    padding: 0px;
+    margin:0px;
+    font-family: 'Work Sans';
+}
+.introduction{
+    text-align: right;
+    
+    padding-top: 150px;
+    
+    background-image: url("/images/banner/banner1.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+.title{
+    font-weight: 700;
+    font-size: 65px; 
+    margin-right: 150px;
+   
+    
+}
+.description{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+}
+
+.btn-1{
+    margin-top: 32px;
+    margin-right: 150px;
+    background-color: #F15B22; 
+    color: #FFFFFF;   
+    border: none;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+
+   
+}
+.banner-container{
+    margin-top: -100px;
+    margin-left: 250px;
+    display: flex;
+}
+.class-position{
+
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
+
+.des{
+    margin-top: 210px;
+    margin-left: 87px;
+   
+}
+
+.des-1{
+    
+    
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0;
+    line-height:47px ;
+    color: #151414;
+}
+
+.pgf{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 0;
+    
+}
+ul.list{
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+.fa-solid {
+    margin-right: 10px;
+    color: #16D887;
+}
+
+.my-plan{
+
+    text-align: center;
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 130px;
+    margin-bottom: 70px;
+}
+
+
+.goals{
+    display: flex;
+    margin-left: 200px;
+}
+
+
+   
+.pic { padding-left: 110px;
+    width: 93px;
+height: 93px;
+margin-bottom: 24px;
+
+    
+    
+}
+
+
+
+.want{
+text-align: center;
+font-weight: 500;
+font-size: 25px;
+color: #737272;
+padding-left: 50px;
+
+}
+.main-goal{
+    
+    font-weight: 700;
+    font-size: 30px;
+   padding-left: 50px;
+
+
+
+}
+
+.mindset{
+    
+    margin-top: 100px;
+    margin-left: 200px;
+    align-items: center;
+    
+    background-color: linear-gradient(90deg, #F15B22 0%,) rgba(241, 91, 34, 0) 100% ;
+    height: 100vh;
+    width: 70%;
+    background-repeat: no-repeat;
+    border-radius:5px;
+    background-image: linear-gradient(90deg, #F15B22 0%, #f15b2200 100%),url("/images/watch.png");
+    height: 300px;
+    width: 1140px;
+    margin-bottom: 100px;
+    
+    
+}
+
+.postive{
+    
+font-size: 40px;
+color: #FFFFFF;
+margin-left: 64px;
+padding-top: 60px;
+font-weight: 700;
+;
+}
+.btn-2{
+
+    background-color: #FFFFFF;
+    margin-left: 64px;
+    margin-top: 25px;
+    color:#F15B22; ;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 64px;
+
+}
+
+
+.contact{
+    display: flex;
+    gap: 331px;
+    background-color: #151414;
+    color: #F8F8F8;
+    padding-top: 130px;
+    padding-left: 200px;
+
+    
+}
+.section-title{
+    font-weight: 700;
+font-size: 45px;
+}
+
+.contact .section-title{
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.contact p{
+    margin-bottom: 16px;
+    font-weight: 400;
+font-size: 16px;
+}
+.section-title1{
+    font-weight: 600;
+font-size: 25px;
+margin-bottom: 16px;
+}
+
+::placeholder{
+
+    background-color: #151414;
+    color: #F3F3F3;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+
+
+
+.btn-3{
+    margin-right: 150px;
+    margin-top:32px ;
+    color:#F15B22;
+    font-weight: 600;
+font-size: 20px;
+    
+    background-color:FFFFFF;
+    border-style: none;
+    width: 170.11px;
+height: 64px;
+border-radius: 8px;
+}
+
